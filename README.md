@@ -1,2 +1,2 @@
 # CPP_Practice_Questions
-### It includes solved-Conceptual-Coding-Problems, which froms basis for Problem Solving.
+### It includes solved-Conceptual-Coding-Problems, which forms basis for Problem Solving.
