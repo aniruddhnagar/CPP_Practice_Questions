@@ -12,7 +12,8 @@ void print_matrix(int* p, int m, int n)
     {   
         cout << endl << endl;
         for(int j=0; j<n; j++)
-        {
+        {   
+            // accessing 2d array elements
             cout << *(p + n * i + j) << " ";
         }
     }
@@ -28,6 +29,6 @@ int main()
     };
     
     print_matrix((int*)a, 3, 4);
-        
+
     return 0;
 }
