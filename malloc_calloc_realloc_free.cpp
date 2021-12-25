@@ -1,4 +1,8 @@
-#include <bits/stdc++.h>
+/*
+    Demonstrating the use of malloc(), calloc(), realloc() & free() key in c.
+*/
+
+#include <bits/stdc++.h> //includes cstdlib automatically 
 using namespace std;
 
 int main()
